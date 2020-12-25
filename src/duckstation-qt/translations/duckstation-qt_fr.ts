@@ -675,12 +675,12 @@
     <message>
         <location filename="../core/settings.cpp" line="444"/>
         <source>Intepreter (Slowest)</source>
-        <translation>Intepréteur (Plus lent)</translation>
+        <translation>Interpréteur (Plus lent)</translation>
     </message>
     <message>
         <location filename="../core/settings.cpp" line="445"/>
         <source>Cached Interpreter (Faster)</source>
-        <translation>Intepréteur avec cache (Plus rapide)</translation>
+        <translation>Interpréteur avec cache (Plus rapide)</translation>
     </message>
     <message>
         <location filename="../core/settings.cpp" line="446"/>
